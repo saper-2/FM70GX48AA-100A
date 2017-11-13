@@ -15,7 +15,8 @@ Display have a 10-bit wide parallel address bus, and 8-bit wide data bus. The 3 
 
 ### CN1 - Address & Data
 Grey connector is Address & Bus:
-![](.\cn1.jpg)
+
+![](cn1.jpg)
 
 And the Pinout:
 
@@ -35,7 +36,7 @@ D2|21|-|22|D3
 D4|23|-|24|D5
 D6|25|-|26|D7
 
-![](.\FM70GX48-CN1.jpg)
+![](FM70GX48-CN1.jpg)
 
 ### CN2 - Power
 Here is a CN2 & CN3 layout:
